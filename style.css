@@ -1,0 +1,193 @@
+@font-face {
+  font-family: 'Merriweather-Regular';
+  src: url('fonts/Merriweather-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url('fonts/OpenSans-Regular.ttf');
+}
+
+.header-top {
+    padding: 5px 0;
+  }
+
+  .bg-theme-colored {
+    background-color: #316DC3 !important;
+}
+
+a.social-icons {
+  margin: 2px 7px 2px 0;
+  width: 30px;
+  font-size: 13px;
+  height: 30px;
+  line-height: 30px;
+  padding: 5px;
+}
+
+.fa-facebook-f, .fa-twitter, .fa-instagram, .fa-youtube, .fa-whatsapp {
+  color: #fff;
+}
+
+ul li.facebook-icon, ul li.twitter-icon, ul li.instagram-icon, ul li.youtube-icon, ul li.whatsapp-icon {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: inline-block;  
+}
+
+.donate-btns:link, .donate-btns:visited {
+  background-color:#f5f5f5;
+  color: #427900;
+  border-color: #006618;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.donate-col {
+  margin-top: 5px;
+}
+
+.text-slider {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: #316DC3;
+  color: #fff;
+  text-align: center;
+}
+
+section.introduction {
+  background-color: #F7F8FA;
+}
+
+.intro-head {
+  font-family: Merriweather-Regular;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.intro-p {
+  font-family: OpenSans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26.6px;
+  text-align: justify;
+  padding: 20px 140px 20px 140px;
+}
+
+section.counters {
+  background-color: #2755E9;
+}
+
+h2.count {
+  font-family: Merriweather-Regular;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 68.57px;
+  color: #fff;
+}
+
+.info-text {
+  font-family: Merriweather-Regular;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #fff;
+}
+
+span.colored-text {
+  font-family: Merriweather-Regular;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 25.71px;
+  color: rgb(0, 255, 0);
+}
+
+div.box-shadow11 {
+  padding: 50px;
+  box-shadow: 5px 10px 18px #888888;
+}
+
+.what-we-do-text {
+  font-family: Merriweather-Regular;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25.71px;
+  color: rgb(49, 109, 195);
+  padding-top: 15px;
+}
+
+.mission-head {
+  font-family: Merriweather-Regular;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34.29px;
+  color: rgb(49, 109, 195);
+}
+
+.upcoming-head {
+  font-family: Merriweather-Regular;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 34.29px;
+  color: rgb(49, 109, 195);
+}
+
+hr.green-line {
+  /* border: 1px solid #427900; */
+  border: none;
+  height: 3px;
+  background-color: green;
+  width: 45px;
+  margin: 0 auto 0 0;
+}
+
+.icon-box {
+  background-color: #f7f8fa;
+  margin-left: 120px;
+}
+
+.media-text {
+  padding-left: 30px;
+  padding-top: 10px;
+  font-family: Merriweather-Regular;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 21.43px;
+  color: rgb(49, 109, 195);
+}
+
+section.image-gallery {
+  margin-bottom: 190px;
+}
+
+.footer {
+  padding-top: 80px;
+  background-color: #25272E;
+  color: rgb(187, 187, 187);
+}
+
+.foo-text {
+  font-family: Merriweather-Regular;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  color: rgb(255, 255, 255);
+}
+
+ul li.fb, ul li.tw, ul li.ins, ul li.yt {
+  display: inline-block;
+  padding: 5px;
+}
+
+.footer-bottom {
+  background-color: #316DD9;
+}
